@@ -1,0 +1,10 @@
+pwd
+ls
+cd command-line
+mkdir command-line-easy && cd command-line-easy
+touch hello.txt
+nano hello.txt
+cp hello.txt hello-copy.txt
+mv hello-copy.txt ../.
+rm hello.txtcat ../hello-copy.txt
+man ls
