@@ -1,0 +1,6 @@
+touch secret.txt
+chmod 600 secret.txt
+ls -l
+whoami
+uname -a
+ls -l > files.txt
