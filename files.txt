@@ -1,0 +1,4 @@
+total 8
+-rw-rw-rw-  1 codespace root        13 Aug 29 15:22 README.md
+drwxrwxrwx+ 4 codespace codespace 4096 Aug 29 20:21 command-line
+-rw-rw-rw-  1 codespace codespace    0 Aug 30 01:16 files.txt
